@@ -1,0 +1,6 @@
+#The bot must be restarted every time you change something in here for it to take effect!
+#
+#set token here, standard token must be undefined
+token = Nzg1MTA3ODQyNTc4Nzc2MTA0.X8zCqA.hSfp6X_99Z63nE6ML0g6ynP3yO0
+#set online status here (either playing, watching or listening work) (all whitespace will be removed,use // instead of whitespace)
+playing = zoom//zoom
