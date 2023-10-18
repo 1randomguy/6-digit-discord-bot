@@ -1,6 +1,6 @@
 # 6-digit-discord-bot
 
-This is a simple Discord-Bot that will recognise everytime you send a 6 digit long code in any channel including private messages and respond to it with the fitting nhentai link.
+This is a simple Discord-Bot that will recognise everytime you send a 6 digit long code in any channel including private messages and respond to it with the fitting link.
 
 To set this up yourself follow this description:
 1. You need to go to https://discord.com/developers/applications and create a new application there.
